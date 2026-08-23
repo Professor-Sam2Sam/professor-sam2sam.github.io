@@ -1,35 +1,26 @@
-# Sameer Alam Academic Website
+# Sameer Alam Academic Website — Professional Template V2
 
-A static academic website generated from the April 2026 promotion dossier.
+This version uses a new senior-academic / research-leader visual template.
 
-## Open locally
-Double-click `index.html`.
-
-## Publish with GitHub Pages
-1. Create a GitHub repository named `sameeralam.github.io` (if available).
-2. Upload the contents of this folder.
-3. Go to Settings → Pages.
-4. Select `Deploy from a branch`, `main`, `/root`.
-
-## Important edits before publishing
-- Replace the photo placeholder with a professional headshot.
-- Add your preferred institutional email, ORCID, Google Scholar and LinkedIn links.
-- Review citation metrics periodically.
-- Consider exporting a clean standalone CV PDF and replacing the current downloadable dossier.
-
-## Pages
+## Included
 - Home
 - Research
-- Publications (journal, books, book chapters, conference papers)
+- Publications
 - Teaching
-- Leadership & Service
-- Full CV
+- Leadership
+- CV
+- Professional portrait
+- Google Scholar / ORCID / LinkedIn / NTU links
+- Downloadable PDF CV
 
-## Profile links included
+## Publish to GitHub Pages
 
-- Google Scholar: https://scholar.google.com/citations?user=5W6FyV0AAAAJ&hl=en
-- ORCID: https://orcid.org/0000-0002-7379-8223
-- LinkedIn: https://sg.linkedin.com/in/dr-sameer-alam-151388a1
-- NTU profile: https://www.ntu.edu.sg/atmri/about-us/our-people
+If your GitHub username is `professor-sam2sam` and you want the clean address:
+`https://professor-sam2sam.github.io`
 
-Note: the Google Scholar link uses Scholar's author-search page because an exact public Scholar profile URL could not be verified reliably from public search results.
+rename the repository to:
+`professor-sam2sam.github.io`
+
+Then replace the old website files with all files from this package.
+
+GitHub Pages will update automatically after commit.
